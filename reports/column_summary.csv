@@ -1,0 +1,4 @@
+﻿column,data_type,missing_count,unique_count
+url,str,0,36706
+abuse_type,str,0,6
+rule,str,32666,48
